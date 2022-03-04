@@ -4,8 +4,6 @@ This is the code of our project for the course  ***CSE 446: Web Technologies***
 
 ![image](https://user-images.githubusercontent.com/39720940/127362104-6e77704b-7eb1-48e5-ae26-a6267ca00084.png)
 
-Descriptions of the project is in [*description.md*](https://github.com/BIJOY-SUST/SUST-CSE-Community-Forum/blob/master/description.md)
-
 # SUST-CSE-Community-Forum-Descriptions
 
  This website enables the students of SUST CSE to get connected with their friends, seniors and juniors from the department, Share and discuss ideas based on common interests in different groups. It also has a functionality to host and manage SUST CSE Society Elections. 
